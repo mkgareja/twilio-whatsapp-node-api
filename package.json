@@ -1,0 +1,24 @@
+{
+  "name": "twilio-whatsapp-node-api",
+  "version": "1.0.0",
+  "description": "This node app  connector allows you to make your  bot available on WhatsApp using the Twilio API for WhatsApp. This guide will take you through the steps of setting up a Twilio WhatsApp sandbox phone number and deploying the connector so it can respond to messages sent using WhatsApp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkgareja/twilio-whatsapp-node-api.git"
+  },
+  "keywords": [
+    "twilio",
+    "node",
+    "whatsapp"
+  ],
+  "author": "Mahesh Gareja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkgareja/twilio-whatsapp-node-api/issues"
+  },
+  "homepage": "https://github.com/mkgareja/twilio-whatsapp-node-api#readme"
+}
