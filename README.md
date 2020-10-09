@@ -19,7 +19,7 @@ Making the connector available via https is preferred. Ngrok is recommended for 
     ``` 
 3. Start the connector with the following command (replacing the environment variable with the appropriate value):
     ```
-    node app.js
+    node server.js
     ```
 
 ### Make the connector available via https
